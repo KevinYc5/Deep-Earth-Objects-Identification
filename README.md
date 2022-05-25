@@ -6,7 +6,7 @@
 
 ### 效果
 
-![](D:/资料/课程/第二学期/基于人工智能的深地目标搜索/Deep-Earth-Objects-Identification/pic/demo_earth1.png)
+![](./pic/demo_earth1.png)
 
 
 
@@ -16,7 +16,7 @@
 
 ### 效果
 
-![](D:\资料\课程\第二学期\基于人工智能的深地目标搜索\Deep-Earth-Objects-Identification\pic\demo_earth2.png)
+![](./pic/demo_earth2.png)
 
 ### 代码框架
 
